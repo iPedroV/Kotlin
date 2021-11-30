@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pratica04</string>
+
+    <string-array name="contatos">
+        <item>Contato 1</item>
+        <item>Contato 2</item>
+        <item>Contato 3</item>
+        <item>Contato 4</item>
+    </string-array>
+
+</resources>
